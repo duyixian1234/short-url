@@ -1,0 +1,5 @@
+-i https://mirrors.cloud.tencent.com/pypi/simple
+Flask==1.1.2
+gevent==20.5.0
+gunicorn==20.0.4
+redis==3.5.2
